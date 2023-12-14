@@ -1,0 +1,49 @@
+body{
+
+    /* background-color: rgb(92, 91, 91); */
+
+    background-image: url(./mg.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
+
+.oo{
+    background-color: cornsilk;
+    border-style: solid;
+    /* border-radius: 20px; */
+    margin-left: 200px;
+    margin-right: 200px;
+    /* padding-right: 200px; */
+    border-left: 200px;
+    border-right: 200px;
+
+
+}
+
+.foo{
+
+    
+    background-color: cornsilk;
+    margin-bottom: 200px;
+    margin-right: 400px;
+    margin-left: 400px;
+
+    padding: 20px;
+}
+
+    /* experimental purposes */
+    
+    /* .oo{
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border: 1px solid black;
+    } */
+
+
+
+
+    
